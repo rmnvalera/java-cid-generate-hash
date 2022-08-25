@@ -1,4 +1,4 @@
-package com.bsafe;
+package com.github.rmnvalera;
 
 import com.google.protobuf.ByteString;
 import io.ipfs.multihash.Multihash;

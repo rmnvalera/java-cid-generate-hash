@@ -1,4 +1,4 @@
-package com.bsafe;
+package com.github.rmnvalera;
 
 import io.ipfs.multihash.Multihash;
 import org.junit.Test;

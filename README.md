@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/rmnvalera/java-cid-generate-hash.svg)](https://jitpack.io/#rmnvalera/java-cid-generate-hash)
 # java-cid-generate-hash
 
 
@@ -8,7 +9,7 @@ Multihash cid = Cid.encode(new File("file.txt"));
 ```
 
 ## Dependency
-You can use this project by building the JAR file as specified below, or by using [JitPack](https://jitpack.io/#ipld/java-cid/) (also supporting Gradle, SBT, etc).
+You can use this project by building the JAR file as specified below, or by using [JitPack](https://jitpack.io/#rmnvalera/java-cid-generate-hash) (also supporting Gradle, SBT, etc).
 
 for Maven, you can add the follwing sections to your POM.XML:
 ```
